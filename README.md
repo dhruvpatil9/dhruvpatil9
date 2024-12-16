@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhruvpatil9
-- 👀 I’m interested in ML and deep learning
-- 🌱 I’m currently learning various models 
+- 👀 I’m interested in ML and deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
